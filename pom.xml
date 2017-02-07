@@ -14,7 +14,7 @@
 	</properties>
 	<dependencyManagement>
 		<dependencies>
-			<dependency>
+			<dependency> 
 				<groupId>io.spring.platform</groupId>
 				<artifactId>platform-bom</artifactId>
 				<version>2.0.3.RELEASE</version>
